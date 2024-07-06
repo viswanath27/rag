@@ -1,11 +1,11 @@
 # KNOWLEDGE GRAPH 
-- [Overview of Knowledge Graph](#Overview-of-Knowledge-Graph)
+- [1. Overview of Knowledge Graph](#1-Overview-of-Knowledge-Graph)
 - [Knowledge graph solutions](#Knowledge-graph-solutions)
     - [Subsection A](#subsection-a)
 - [Limitations of traditional RAG](#Limitations-of-traditional-RAG)
 - [Details of Graph RAG](#Details-of-Graph-RAG)
 
-# Overview of Knowledge Graph
+# 1 Overview of Knowledge Graph
 This documentation provides the information about the knowledge graph concept for the RAG solutions 
 
 # Knowledge graph solutions 
