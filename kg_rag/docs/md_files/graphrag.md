@@ -27,30 +27,35 @@
 
 
 ## Overview
-Overview and details of the Graph Rag are explained in below section 
+Overview and details of the Graph Rag are explained in below section. There are 2 main phases for this operation.
+* Indexing Phase
+* Quering Phase 
 
 ## Architecture
 Graph Rag architecure is shown below 
 
 ![GraphRagArchitecture](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/kg_arch.png)
 
-## Source documents
+## Indexing Phase
+Indexing phase is used to create the index for the given text. This index is used to query
 
-## Text Chunking 
+### Source documents
 
-## Entity Extraction
+### Text Chunking 
 
-## Relationship Extraction
+### Entity Extraction
 
-## Knowledge Graph Generation
+### Relationship Extraction
 
-## Community Detection
+### Knowledge Graph Generation
 
-## Heirarchial Community Structure 
+### Community Detection
 
-## Community Levels
+### Heirarchial Community Structure 
+
+### Community Levels
 * Root Level C0
 * High Level C1 
 * Low Level C3 
 
-## Generate Community Services 
+### Generate Community Services 
