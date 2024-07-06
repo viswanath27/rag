@@ -1,9 +1,11 @@
 # KNOWLEDGE GRAPH 
-- [1. Overview of Knowledge Graph](#Overview-of-Knowledge-Graph)
-- [2. Knowledge graph solutions](#Knowledge-graph-solutions)
+- [1. Limitations of traditional RAG](#Limitations-of-traditional-RAG)
+- [2. Overview of Knowledge Graph](#Overview-of-Knowledge-Graph)
+- [3. Knowledge graph solutions](#Knowledge-graph-solutions)
     - [Subsection A](#subsection-a)
-- [3. Limitations of traditional RAG](#Limitations-of-traditional-RAG)
 - [4. Details of Graph RAG](#Details-of-Graph-RAG)
+
+# Limitations of traditional RAG
 
 # Overview of Knowledge Graph
 This documentation provides the information about the knowledge graph concept for the RAG solutions 
@@ -14,6 +16,6 @@ Currently knowledge graph solution is provided by 3 approaches
 2. [LlamaIndex Graph rag](https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_rag_query_engine/)
 3. [Neo4j graph rag](https://neo4j.com/developer-blog/graphrag-llm-knowledge-graph-builder/)
 
-# Limitations of traditional RAG
+
 
 # Details of Graph RAG
