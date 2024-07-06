@@ -1,8 +1,12 @@
 
 
 
-[![home](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/ho_icon.jpeg){.reduced-image}](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/main.md)
 
+
+
+<a href="https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/main.md">
+  <img src="https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/ho_icon.jpeg" alt="home" style="width:50%;">
+</a>
 
 # GraphRAG
 - [1. Overview](#Overview)
