@@ -3,7 +3,8 @@
 - [2. Overview of Knowledge Graph](#Overview-of-Knowledge-Graph)
 - [3. Knowledge graph solutions](#Knowledge-graph-solutions)
 - [4. GraphRAG](#GraphRAG)
-    - [Architecture](#Architecture)
+    - [Indexing Phase](#Indexing-Phase)
+    - [Query Phase](#Query-Phase)
 
 # Limitations of traditional RAG
 The main limitation of traditional RAG system is, it will not be able to take the questions which are spanning the complete document. But most of the  times user will have the questions realted to complete document to get the questions understood and answered intentionally rather than the direct question.
@@ -18,6 +19,16 @@ Currently knowledge graph solution is provided by 3 approaches
 3. [Neo4j graph rag](https://neo4j.com/developer-blog/graphrag-llm-knowledge-graph-builder/)
 
 # GraphRAG
-Overview and details of the Graph Rag are explained in below section are explained in below link 
-[Graphrag](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/graphrag.md)
+
+Overview and details of the Graph Rag are explained in below section. Graph RAG is split into 2 parts 
+1. Indexing Phase
+2. Query Phase
+
+
+## Indexing Phase
+Indexing phase is approach of how input data indexing will happen in Graph RAG. More details are given in this link [Index details](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/graphrag.md)
+
+## Query Phase 
+Query phase is approach of how the query will be executed in Graph RAG. More details are given []()
+
 
