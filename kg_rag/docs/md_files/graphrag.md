@@ -53,10 +53,13 @@ Within each chunk, we need to identify the entities. These entities can be peopl
 Relationship extraction will mainly look for the relation ships between these entities. Above both steps should be performed in an best way to get the great results.
 
 ### Knowledge Graph Generation
-
+This is the stage where we are creating the knowledge graph using the above 2 important steps, Entity extraction and Relationship extraction. 
 ### Community Detection
+This more of idetifying the communities which are more related. 
 
 ### Heirarchial Community Structure 
+There will be heirarchial communities which are established and these communities provide the relation between the informaiton 
+
 
 ### Community Levels
 * Root Level C0
