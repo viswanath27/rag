@@ -26,4 +26,4 @@ Overview and details of the Graph Rag are explained in below section. There are 
 ## Architecture
 Graph Rag architecure is shown below 
 
-![GraphRagArchitecture](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/kg_arch.png)
+![GraphRagArchitecture](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/query_arch.png)
