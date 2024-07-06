@@ -41,8 +41,10 @@ Graph Rag architecure is shown below
 Indexing phase is used to create the index for the given text. This index is used to query
 
 ### Source documents
+All the soruce documents are processed and organized in this stage. This is more of understanding the format and accordingly process the documents to extract the data.
 
 ### Text Chunking 
+This is the chunking strategy which is used to chunk the documents. This is completly dependent upon the how is our document organized and what is the best approach to do so.
 
 ### Entity Extraction
 
