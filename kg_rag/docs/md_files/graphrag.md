@@ -1,7 +1,7 @@
 
 
 <div style="float: right">
-[![Alt text for icon](URL or path to icon image)](URL to link to)
+[![home](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/h_icon.png)](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/main.md)
 </div>
 
 # GraphRAG
