@@ -22,4 +22,4 @@ Currently knowledge graph solution is provided by 3 approaches
 ## Architecture
 Graph Rag architecure is shown below 
 
-![GraphRagArchitecture]()
+![GraphRagArchitecture](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/kg_arch.png)
