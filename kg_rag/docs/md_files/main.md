@@ -21,28 +21,3 @@ Currently knowledge graph solution is provided by 3 approaches
 Overview and details of the Graph Rag are explained in below section are explained in below link 
 [Graphrag](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/graphrag.md)
 
-## Architecture
-Graph Rag architecure is shown below 
-
-![GraphRagArchitecture](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/kg_arch.png)
-
-### Source documents
-
-### Text Chunking 
-
-### Entity Extraction
-
-### Relationship Extraction
-
-### Knowledge Graph Generation
-
-### Community Detection
-
-### Heirarchial Community Structure 
-
-### Community Levels
-* Root Level C0
-* High Level C1 
-* Low Level C3 
-
-### Generate Community Services 
