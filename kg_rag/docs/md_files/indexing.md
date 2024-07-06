@@ -10,7 +10,7 @@
   </a>
 </p>
 
-# GraphRAG
+# Indexing in GraphRAG
 - [1. Overview](#Overview)
 - [2. Architecture](#Architecture)
 - [3. Indexing Phase](#Indexing-Phase)
