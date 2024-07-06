@@ -18,7 +18,7 @@ Currently knowledge graph solution is provided by 3 approaches
 2. [LlamaIndex Graph rag](https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_rag_query_engine/)
 3. [Neo4j graph rag](https://neo4j.com/developer-blog/graphrag-llm-knowledge-graph-builder/)
 
-# GraphRAG
+# GraphRAG from Microsoft
 
 Overview and details of the Graph Rag are explained in below section. Graph RAG is split into 2 parts 
 1. Indexing Phase

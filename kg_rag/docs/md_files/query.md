@@ -17,3 +17,13 @@
     - [7. Heirarchial Community Structure](#Heirarchial-Community-Structure)
     - [8. Community Levels](#Community-Levels)
     - [9. Generate Community Services](#Generate-Community-Services)
+
+## Overview
+Overview and details of the Graph Rag are explained in below section. There are 2 main phases for this operation.
+* Indexing Phase
+* Quering Phase 
+
+## Architecture
+Graph Rag architecure is shown below 
+
+![GraphRagArchitecture](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/kg_arch.png)
