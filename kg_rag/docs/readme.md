@@ -17,32 +17,3 @@ Currently knowledge graph solution is provided by 3 approaches
 2. [LlamaIndex Graph rag](https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_rag_query_engine/)
 3. [Neo4j graph rag](https://neo4j.com/developer-blog/graphrag-llm-knowledge-graph-builder/)
 
-# GraphRAG
-Overview and details of the Graph Rag are explained in below section are explained in below link 
-[Graphrag](https://www.microsoft.com/en-us/research/project/graphrag/)
-
-## Architecture
-Graph Rag architecure is shown below 
-
-![GraphRagArchitecture](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/kg_arch.png)
-
-### Source documents
-
-### Text Chunking 
-
-### Entity Extraction
-
-### Relationship Extraction
-
-### Knowledge Graph Generation
-
-### Community Detection
-
-### Heirarchial Community Structure 
-
-### Community Levels
-* Root Level C0
-* High Level C1 
-* Low Level C3 
-
-### Generate Community Services 
