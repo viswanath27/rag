@@ -47,8 +47,10 @@ All the soruce documents are processed and organized in this stage. This is more
 This is the chunking strategy which is used to chunk the documents. This is completly dependent upon the how is our document organized and what is the best approach to do so.
 
 ### Entity Extraction
+Within each chunk, we need to identify the entities. These entities can be people, places, dates and other important artifacts which are necessary for processing the document. 
 
 ### Relationship Extraction
+Relationship extraction will mainly look for the relation ships between these entities. Above both steps should be performed in an best way to get the great results.
 
 ### Knowledge Graph Generation
 
