@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/main.md">
-  <img src="https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/ho_icon.jpeg" alt="home" style="width:50%;">
+  <img src="https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/ho_icon.jpeg" alt="home" style="width:10%;">
 </a>
 
 # GraphRAG
