@@ -2,8 +2,8 @@
 - [1. Limitations of traditional RAG](#Limitations-of-traditional-RAG)
 - [2. Overview of Knowledge Graph](#Overview-of-Knowledge-Graph)
 - [3. Knowledge graph solutions](#Knowledge-graph-solutions)
-    - [Subsection A](#subsection-a)
 - [4. GraphRAG](#GraphRAG)
+    - [Architecture](#Architecture)
 
 # Limitations of traditional RAG
 The main limitation of traditional RAG system is, it will not be able to take the questions which are spanning the complete document. But most of the  times user will have the questions realted to complete document to get the questions understood and answered intentionally rather than the direct question.
@@ -18,3 +18,8 @@ Currently knowledge graph solution is provided by 3 approaches
 3. [Neo4j graph rag](https://neo4j.com/developer-blog/graphrag-llm-knowledge-graph-builder/)
 
 # GraphRAG
+
+## Architecture
+Graph Rag architecure is shown below 
+
+![GraphRagArchitecture]()
