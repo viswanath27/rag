@@ -1,3 +1,9 @@
+
+
+<div style="float: right">
+[![Alt text for icon](URL or path to icon image)](URL to link to)
+</div>
+
 # GraphRAG
 - [1. Overview](#Overview)
 - [2. Architecture](#Architecture)
