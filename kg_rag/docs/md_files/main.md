@@ -19,7 +19,7 @@ Currently knowledge graph solution is provided by 3 approaches
 
 # GraphRAG
 Overview and details of the Graph Rag are explained in below section are explained in below link 
-[Graphrag](https://www.microsoft.com/en-us/research/project/graphrag/)
+[Graphrag](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/graphrag.md)
 
 ## Architecture
 Graph Rag architecure is shown below 
