@@ -1,11 +1,11 @@
 # KNOWLEDGE GRAPH 
-- [Introduction](#introduction)
-- [Section 1](#section-1)
+- [Overview of Knowledge Graph](#Overview-of-Knowledge-Graph)
+- [Knowledge graph solutions](#Knowledge-graph-solutions)
     - [Subsection A](#subsection-a)
-- [Section 2](#section-2)
-- [Conclusion](#conclusion)
+- [Limitations of traditional RAG](#Limitations-of-traditional-RAG)
+- [Details of Graph RAG](#Details-of-Graph-RAG)
 
-# OVERVIE OF KNOWLEDGE GRAPH BASED RAG
+# Overview of Knowledge Graph
 This documentation provides the information about the knowledge graph concept for the RAG solutions 
 
 # Knowledge graph solutions 
@@ -15,3 +15,5 @@ Currently knowledge graph solution is provided by 3 approaches
 3. [Neo4j graph rag](https://neo4j.com/developer-blog/graphrag-llm-knowledge-graph-builder/)
 
 # Limitations of traditional RAG
+
+# Details of Graph RAG
