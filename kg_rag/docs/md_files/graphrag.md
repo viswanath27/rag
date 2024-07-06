@@ -13,15 +13,16 @@
 # GraphRAG
 - [1. Overview](#Overview)
 - [2. Architecture](#Architecture)
-- [3. Source documents](#Source-documents)
-- [4. Text Chunking](#Text-Chunking)
-- [5. Entity Extraction](#Entity-Extraction)
-- [6. Relationship Extraction](#Relationship-Extraction)
-- [7. Knowledge Graph Generation](#Knowledge-Graph-Generation)
-- [8. Community Detection](#Community-Detection)
-- [9. Heirarchial Community Structure](#Heirarchial-Community-Structure)
-- [10. Community Levels](#Community-Levels)
-- [11. Generate Community Services](#Generate-Community-Services)
+- [3. Indexing Phase](#Indexing-Phase)
+    - [1. Source documents](#Source-documents)
+    - [2. Text Chunking](#Text-Chunking)
+    - [3. Entity Extraction](#Entity-Extraction)
+    - [4. Relationship Extraction](#Relationship-Extraction)
+    - [5. Knowledge Graph Generation](#Knowledge-Graph-Generation)
+    - [6. Community Detection](#Community-Detection)
+    - [7. Heirarchial Community Structure](#Heirarchial-Community-Structure)
+    - [8. Community Levels](#Community-Levels)
+    - [9. Generate Community Services](#Generate-Community-Services)
 
 
 
