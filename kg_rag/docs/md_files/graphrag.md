@@ -1,7 +1,7 @@
 
 
 
-[![home](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/ho_icon.jpeg)](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/main.md)
+[![home](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/ho_icon.jpeg){.reduced-image}](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/main.md)
 
 
 # GraphRAG
