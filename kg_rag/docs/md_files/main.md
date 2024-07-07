@@ -24,6 +24,8 @@ Overview and details of the Graph Rag are explained in below section. Graph RAG 
 1. Indexing Phase
 2. Query Phase
 
+Complete details of Grap RAG and Git hub [link](https://microsoft.github.io/graphrag/). 
+
 
 ## [Indexing Phase](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/indexing.md)
 Indexing phase is approach of how input data indexing will happen in Graph RAG. More details are given in this link [Index details](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/graphrag.md)
