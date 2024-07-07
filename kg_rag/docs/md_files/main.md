@@ -25,10 +25,10 @@ Overview and details of the Graph Rag are explained in below section. Graph RAG 
 2. Query Phase
 
 
-## Indexing Phase
+## [Indexing Phase]((https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/graphrag.md))
 Indexing phase is approach of how input data indexing will happen in Graph RAG. More details are given in this link [Index details](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/graphrag.md)
 
-## Query Phase 
+## [Query Phase](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/query.md)
 Query phase is approach of how the query will be executed in Graph RAG. More details are given [Querying Phase](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/query.md)
 
 
