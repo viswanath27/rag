@@ -27,3 +27,27 @@ Overview and details of the Graph Rag are explained in below section. There are 
 Graph Rag architecure is shown below 
 
 ![GraphRagArchitecture](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/images/query_arch.png)
+
+## User Query
+---
+This is the user Query which user wants to know the response about. 
+
+## Select Community Level
+---
+The first action before we do any thing is choose the community level against which Answer has to be extracted today this is done manually while we are giving the command. But this should be done automatically so that there is a seemless response. 
+
+## Retrieve Relevant Community Service
+---
+This is where the retrieve the relevant community services based on the question. If there are multiple communities against which this question is matching, that should also be fetched.
+
+## General Partial Responses
+---
+Based on this communities there will be responses, there can be multiple responses as there are multiple communities. 
+
+## Combine Responses 
+---
+Once the partial responses are generated these will be combined and augumented to form the answer. 
+
+## Final Answer 
+---
+Final Answer is generated based on the responses from the above partial answers. 

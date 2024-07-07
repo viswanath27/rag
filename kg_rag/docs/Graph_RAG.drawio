@@ -1,10 +1,10 @@
-<mxfile host="Electron" modified="2024-07-06T19:43:04.204Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="KWprl7S5o9vbUnkkJJ_J" version="24.6.4" type="device">
+<mxfile host="Electron" modified="2024-07-07T03:02:36.161Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="dsMel6lA_tZfEb0QVVr8" version="24.6.4" type="device">
   <diagram name="Page-1" id="LI5KIB7wsVQeK9o3ETwD">
     <mxGraphModel dx="2261" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vak9B4jnJLYDwxCVSjhA-22" value="&lt;h1&gt;&lt;b&gt;GRAPH RAG ARCHITETCURE&lt;/b&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBackgroundColor=#1e1d15;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="vak9B4jnJLYDwxCVSjhA-22" value="&lt;h1&gt;&lt;b&gt;&lt;font color=&quot;#22b7dd&quot;&gt;GRAPH RAG ARCHITETCURE&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBackgroundColor=#f4f1f1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-120" y="60" width="1120" height="630" as="geometry" />
         </mxCell>
         <mxCell id="vak9B4jnJLYDwxCVSjhA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#121111;" parent="1" source="vak9B4jnJLYDwxCVSjhA-1" target="vak9B4jnJLYDwxCVSjhA-3" edge="1">
@@ -75,7 +75,7 @@
         <mxCell id="vak9B4jnJLYDwxCVSjhA-23" value="&lt;b&gt;&lt;font color=&quot;#0d0c0c&quot;&gt;GENERATE COMMUNITY SERVICES&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-50" y="471" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eAhHEbF1LH0dNuaxpPkc-2" value="&lt;h1&gt;&lt;b&gt;QUERY PHASE&lt;/b&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#ede9e9;strokeColor=#666666;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="eAhHEbF1LH0dNuaxpPkc-2" value="&lt;h1&gt;&lt;b&gt;QUERY PHASE&lt;/b&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#1550c6;strokeColor=#666666;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="-120" y="760" width="1120" height="550" as="geometry" />
         </mxCell>
         <mxCell id="eAhHEbF1LH0dNuaxpPkc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0c0c;" edge="1" parent="1" source="vak9B4jnJLYDwxCVSjhA-23" target="eAhHEbF1LH0dNuaxpPkc-5">
