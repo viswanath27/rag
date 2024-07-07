@@ -18,7 +18,7 @@ Currently knowledge graph solution is provided by 3 approaches
 2. [LlamaIndex Graph rag](https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_rag_query_engine/)
 3. [Neo4j graph rag](https://neo4j.com/developer-blog/graphrag-llm-knowledge-graph-builder/)
 
-# GraphRAG from Microsoft
+# [GraphRAG from Microsoft](https://www.microsoft.com/en-us/research/project/graphrag/)
 
 Overview and details of the Graph Rag are explained in below section. Graph RAG is split into 2 parts 
 1. Indexing Phase
@@ -32,3 +32,8 @@ Indexing phase is approach of how input data indexing will happen in Graph RAG. 
 Query phase is approach of how the query will be executed in Graph RAG. More details are given [Querying Phase](https://github.com/viswanath27/rag/blob/main/kg_rag/docs/md_files/query.md)
 
 
+# LlamaIndex Graph rag
+
+
+
+# Neo4j graph rag
